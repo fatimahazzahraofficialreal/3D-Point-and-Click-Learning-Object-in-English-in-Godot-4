@@ -1,8 +1,0 @@
-[gd_scene load_steps=2 format=3 uid="uid://7gd1t8gkmev"]
-
-[ext_resource type="PackedScene" uid="uid://bgprppj0ldla2" path="res://orange.glb" id="1_xey2s"]
-
-[node name="orange" instance=ExtResource("1_xey2s")]
-
-[node name="Orange" parent="." index="1"]
-transform = Transform3D(4, 0, 0, 0, 1.16516, -3.82654, 0, 3.82654, 1.16516, 0, 0, -0.0324454)

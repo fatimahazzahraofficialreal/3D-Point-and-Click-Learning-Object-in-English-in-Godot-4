@@ -1,8 +1,0 @@
-[gd_scene load_steps=2 format=3 uid="uid://pomac43nluob"]
-
-[ext_resource type="PackedScene" uid="uid://cauwcf8ithld4" path="res://apple.glb" id="1_kjot4"]
-
-[node name="apple" instance=ExtResource("1_kjot4")]
-
-[node name="Apple Food" parent="." index="1"]
-transform = Transform3D(2, 0, 0, 0, 2, 0, 0, 0, 2, 0, 0, 0)
